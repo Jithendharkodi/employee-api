@@ -14,7 +14,8 @@ public class EmployeeController {
         return List.of(
                 new Employee(1, "John", "Developer"),
                 new Employee(2, "Sara", "Tester"),
-                new Employee(3, "Mike", "Manager")
+                new Employee(3, "Mike", "Manager"),
+                new Employee(4, "JK", "CEO")
         );
     }
 }
