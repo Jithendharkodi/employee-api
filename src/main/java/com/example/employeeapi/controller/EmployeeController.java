@@ -15,7 +15,7 @@ public class EmployeeController {
                 new Employee(1, "John", "Developer"),
                 new Employee(2, "Sara", "Tester"),
                 new Employee(3, "Mike", "Manager"),
-                new Employee(4, "JitK", "CEO")
+                new Employee(4, "Jhon", "CEO")
         );
     }
 }
